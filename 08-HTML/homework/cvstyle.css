@@ -1,0 +1,19 @@
+
+
+body{
+    margin: 30px;
+    background-image: url(./hojasrosas.webp);
+    background-color: rgba(163, 163, 163, 0.741);
+    background-blend-mode:soft-light;
+    background-repeat: repeat;
+    text-align: center;
+    color: rgb(19, 19, 13);
+    text-transform: uppercase;
+    color: rgb(16, 13, 16); text-shadow: rgb(243, 245, 243) 0.1em 0.1em 0.2em;
+    font-family: 'Bebas Neue', cursive;
+}
+
+li{
+    padding: 5px;
+    list-style: none;
+}
