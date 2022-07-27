@@ -2,10 +2,14 @@
     text-align: center;
 }
 
+body{
+    background-image: url(./palta.jpg);
+}
 
 
 .h1{
-    color: hsl(83, 85%, 48%);
+    color: rgb(5, 5, 4); text-shadow: rgb(49, 105, 23) 0.1em 0.1em 0.2em;
+    text-transform: uppercase;
 }
 
 img{
@@ -24,4 +28,20 @@ img{
 .spanId{
     font-size: 18px;
     margin: 50px;
+}
+
+.contenedor{
+    text-align: left;
+    display: inline-block;
+}
+
+#spanId{
+    display: block;
+    padding-bottom: 40px;
+}
+
+li{
+    list-style: none;
+    display: block;
+    padding-bottom: 20px;
 }
